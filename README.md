@@ -1,4 +1,5 @@
 1. Introduction
+
 a. What is your application?
 The application is a movie theater program titled "ComaRama Movie Theatre." It allows users to view available movies, select one for watching, and proceed to the checkout.
 
